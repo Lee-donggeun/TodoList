@@ -2,9 +2,10 @@
 
 12.06~12.14
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?
-style=flat&logo=JavaScript&logoColor=white"/>
-
+기능
+- input요소에 입력하기
+- list 추가
+- 추가한 list 선택 후, 삭제
 
 ```
 // DOMContentLoaded 이벤트가 발생하면 실행됩니다.
