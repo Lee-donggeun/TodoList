@@ -7,6 +7,8 @@
 - list 추가
 - 추가한 list 선택 후, 삭제
 
+배포 사이트: https://lee-donggeun.github.io/TodoList/
+
 ```
 // DOMContentLoaded 이벤트가 발생하면 실행됩니다.
 document.addEventListener("DOMContentLoaded", () => {
