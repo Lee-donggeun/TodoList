@@ -8,6 +8,7 @@
 - 추가한 list 선택 후, 삭제
 
 적용 언어
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
 배포 사이트: https://lee-donggeun.github.io/TodoList/
